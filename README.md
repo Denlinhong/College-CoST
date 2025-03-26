@@ -21,7 +21,7 @@ img {
 <img src="3.jpg" alt="images" style="width:490px;height:350px;">
 <p>Images Images Images
 Welcome to College of Science and Technology of The University of Cambodia. For everyone who wishes to pursue for any AA and BA degrees of the study programs, please register now or visit the campus of The University of Cambodia. College of Science and Technology at The University of Cambodia. The College of Science and Technology (CoST) was established at the same time as the The University of Cambodia in 2013. The College have been developed and transforms with the rise of Science and technology in the 21st century. We drive and inspire our students to value creativity and innovation in the information technology world. The college offers undergraduate and graduate programs such as Computer Science, Information Technology and Electronics and Telecommunication. Our programs prepare students for careers in these disciplines as scientific and ICT professional. In order to meet increasing demand for graduates in computer science and information technology, we have: developed robust and modern curricula; established sophisticated facilities; and hired high qual...</p>
-<h2 style="color:white;background-color:darkblue">Major offering in college of science and technology</h2>
+<h2 style="color:white;background-color:darkblue;">Major offering in college of science and technology</h2>
 </body>
 <head>
   <style>
@@ -59,3 +59,4 @@ Welcome to College of Science and Technology of The University of Cambodia. For 
 <img src="IT-center.jpg" alt="images" style="width:490px;height:350px;">
 <img src="Networking.jpg" alt="images" style="width:490px;height:350px;">
 </html>
+
